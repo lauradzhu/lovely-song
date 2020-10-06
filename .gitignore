@@ -1,0 +1,4 @@
+target/*.db
+target/*.log
+bin/*.db
+bin/*.log
